@@ -1,6 +1,11 @@
 # Mobile-to-PC Command Control
 
 <!-- ![Project Image/Logo](insert_image_url_here) -->
+<video width="640" height="360" controls>
+  <source src="out/Test.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ## Project Overview
 
