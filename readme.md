@@ -29,7 +29,7 @@ This open-source project enables users to control their PC from a mobile device 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/Mobile-to-PC-Command-Control.git`
+1. Clone the repository: `git clone https://github.com/AbdullahAbdelhakeem6484/Control_PC_Via_MobilePhone.git`
 2. Install the required dependencies.
 3. Follow the setup and configuration instructions in the [docs folder](docs/).
 
