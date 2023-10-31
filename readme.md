@@ -1,6 +1,6 @@
 # Mobile-to-PC Command Control
 
-![Project Image/Logo](insert_image_url_here)
+<!-- ![Project Image/Logo](insert_image_url_here) -->
 
 ## Project Overview
 
